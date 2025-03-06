@@ -1,0 +1,8 @@
+Flask
+newspaper3k
+python-dotenv
+langchain
+openai
+pytest
+langchain-openai
+"lxml[html_clean]"
